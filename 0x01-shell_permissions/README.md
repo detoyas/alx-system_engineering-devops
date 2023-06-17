@@ -1,5 +1,6 @@
-     # Readme file for Shell permissions Tasks
-             ~~~~~~~~~~~~~~~~~~
+Readme file for Shell permissions Tasks
+=======================================
+             
 *The scripts always has a bash bin as a first line then the builtin command in second line*
 
 0 **su** : switch to user
