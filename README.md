@@ -4,7 +4,7 @@ ALX SYSTEM ENGINEERING DEVOPS
 > Repository for all tasks related to System Engineering and DevOps
 
 
-* 0x00 : Writing basic bash scripts that perform basic stuff.
+* [0x00](https://github.com/detoyas/alx-system_engineering-devops/tree/master/0x00-shell_basics): Writing basic bash scripts that perform basic stuff.
 
 * 0x01 : Linux permissions.
 
