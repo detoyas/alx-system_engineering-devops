@@ -1,8 +1,8 @@
-    Scripts README file
-    ==================
+Sell Basics Scripts README file
+===============================
 
-we'll be using Bash built-in as the scripts for the task with a Shebang at the first line of the script
--------------------------------------------------------------------------------------------------------
+> we'll be using Bash built-in as the scripts for the task with a Shebang at the first line of the script
+
 
 * task 0 : pwd /  printing working directory
 * task 1 : ls / listing files in the directory
