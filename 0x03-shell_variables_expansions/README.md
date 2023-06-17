@@ -1,4 +1,8 @@
-         #README file for OxO3 Shell init files and variables 
+README file for OxO3 Shell init files and variables
+===================================================
+
+> Init files are configuration files that are executed automatically when a shell starts up
+
 
 **Task 0** : Script that creates an alias.
 
