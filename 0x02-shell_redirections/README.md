@@ -1,5 +1,7 @@
-       ## This a readme file for 0x02 Shell redirections tasks
-        
+Readme file for 0x02 Shell redirections tasks
+=============================================
+
+>  Special notations we can redirect the output of many commands to files, devices, and even to the input of other commands
 
 **task 0** *echo* : prints the text in the output
 
